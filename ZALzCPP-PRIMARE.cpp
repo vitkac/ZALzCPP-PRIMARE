@@ -138,7 +138,7 @@ auto print_and_test=[](long long int n) -> void //Zapis do zmiennej adresu funkc
 int main()
 {
 size_t w;
-string plik,tekst;
+string plik;
 cout<<"Wybierz z klawiatury numer pliku z zestawem liczb\n1:Małe liczby-liczby_small.txt\n2:Średnie liczby-liczby_medium.txt\n3:Duże liczby-liczby_big.txt\n";
 cout<<"Twoj wybór :";
 cin>>w;
