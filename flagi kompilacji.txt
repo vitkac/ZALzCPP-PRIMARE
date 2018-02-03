@@ -1,0 +1,2 @@
+g++ ZALzCPP-PRIMARE.cpp -std=c++11 -lgmp
+
